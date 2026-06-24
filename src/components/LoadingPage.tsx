@@ -5,7 +5,7 @@ export default function LoadingPage() {
 
   useEffect(() => {
     // Fetch the target link from the server
-    let targetLink = "https://t.me/+5VcFpUB4KyQ2NzA1"; // fallback
+    let targetLink = "https://t.me/+lXM_AH74yrkxNDc1"; // fallback
 
     const fetchLink = async () => {
       try {
