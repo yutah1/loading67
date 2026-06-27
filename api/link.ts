@@ -12,7 +12,7 @@ const getLink = () => {
       return fs.readFileSync(localPath, "utf-8").trim();
     }
   } catch (err) {}
-  return "https://t.me/+5VcFpUB4KyQ2NzA1";
+  return "https://t.me/+gsPXxiemhcI2ODk1";
 };
 
 const setLink = (newLink: string) => {
