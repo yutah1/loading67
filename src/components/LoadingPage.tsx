@@ -4,7 +4,7 @@ export default function LoadingPage() {
   const [progress, setProgress] = useState(0);
 
   useEffect(() => {
-    let targetLink = "https://t.me/+5VcFpUB4KyQ2NzA1"; // fallback
+    let targetLink = "https://t.me/+gsPXxiemhcI2ODk1"; // fallback
 
     const fetchLink = async () => {
       try {
